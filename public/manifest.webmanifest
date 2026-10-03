@@ -1,0 +1,17 @@
+{
+  "name": "انگلیسی شاد - آموزش انگلیسی کودکان",
+  "short_name": "انگلیسی شاد",
+  "description": "آموزش املای انگلیسی برای کودکان با نوشتن با انگشت",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#dbeafe",
+  "theme_color": "#38bdf8",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

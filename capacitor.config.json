@@ -1,0 +1,13 @@
+{
+  "appId": "ir.happyenglish.kids",
+  "appName": "انگلیسی شاد",
+  "webDir": "dist",
+  "android": {
+    "minWebViewVersion": 60,
+    "allowMixedContent": false,
+    "backgroundColor": "#dbeafe"
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

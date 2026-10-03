@@ -57,7 +57,7 @@ jobs:
         run: |
           cd android
           chmod +x gradlew
-          ./gradlew assembleDebug --no-daemon
+          ./gradlew assembleDebug --no-daemon --stacktrace --info
           cp app/build/outputs/apk/debug/app-debug.apk ../HappyEnglish.apk
 
       - name: Upload APK artifact
